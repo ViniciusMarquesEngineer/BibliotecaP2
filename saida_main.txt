@@ -1,0 +1,22 @@
+=== Empréstimos e prazos ===
+Maria Silva pegou "Dom Casmurro" em 11/11/2026 -> devolução prevista: 18/11/2026
+Ana Souza pegou "Head First Java" em 11/11/2026 -> devolução prevista: 26/11/2026
+
+=== Devoluções e multas ===
+Devolução em 21/11/2026
+  Maria Silva (aluno): multa R$ 3.00
+  Ana Souza (professor): multa R$ 0.00
+  Ana Souza devolve em 29/11/2026 (3 dias de atraso): multa R$ 1.50
+
+=== Livro sem exemplar livre ===
+Exceção tratada: O livro "Java: Como Programar" não tem exemplar livre.
+Exemplares livres de "Java: Como Programar": 0
+
+=== Limite de empréstimos ===
+Maria tem 3 empréstimos em aberto.
+Exceção tratada: Maria Silva já atingiu o limite de 3 empréstimos.
+
+=== Regras por tipo de usuário ===
+Maria Silva    prazo= 7 dias | limite=3 | multa de 3 dias = R$ 3.00
+Ana Souza      prazo=15 dias | limite=5 | multa de 3 dias = R$ 1.50
+João Pereira   prazo= 7 dias | limite=3 | multa de 3 dias = R$ 3.00
