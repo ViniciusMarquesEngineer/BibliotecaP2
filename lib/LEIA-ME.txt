@@ -1,0 +1,1 @@
+Driver do SQLite (sqlite-jdbc 3.47.0.0) incluído. Na IDE sem Maven, adicione este .jar às bibliotecas do projeto.
